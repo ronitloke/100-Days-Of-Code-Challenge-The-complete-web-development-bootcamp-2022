@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: #f2e9fe;    ;
+}
+
+#h1{
+    color: rgb(119,74,216);
+    font-size: 50px;
+}
+main{
+    text-align: left;
+    width: 800px;
+    margin: 100px auto 100px auto;
+    background-color: rgb(119,74,216);
+    color: white;
+    padding: 40px;
+    border-radius: 8px;
+}
+
+span{
+    background-color: #f0e68c"
+}
+
+a{
+    background-color: #f9c927;    ;
+    color: black;
+    border-radius: 8px;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
